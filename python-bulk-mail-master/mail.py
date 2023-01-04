@@ -9,7 +9,7 @@ import traceback
 try:
     sender_email = "info@essentecla.com"
     # receiver_email = "receiver_mail@gmail.com"
-    password = "EvaLucia-2019"
+    password = "PASSWORDHERE"
 
     message = MIMEMultipart("alternative")
     message["Subject"] = "Necesitas una pagina web? Necesitas diseñar una imagen para redes sociales? Te podemos ayudar!"
