@@ -7,7 +7,7 @@ import time
 
 sender_email = "info@essentecla.com"
 # receiver_email = "receiver_mail@gmail.com"
-password = "EvaLucia-2019"
+password = "Passwordaqui"
 
 message = MIMEMultipart("alternative")
 message["Subject"] = "Necesitas una pagina web? Te podemos ayudar!"
